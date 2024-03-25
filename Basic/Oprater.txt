@@ -1,0 +1,19 @@
+Artithmetic Operators in javascript 
+Operator Description
++ Addition
+- Subtraction
+* Multiplication
+/ Division
+% Modulus (remainder of a division)
+++ Increment
+-- Decrement
+
+operator in javascript in Hindi
+Assignment Operators in Hindissssss
+Operator Description
+= Assign
++= Add and assign. For example, x+=y is the same as x=x+y.
+-= Subtract and assign. For example, x-=y is the same as x=x-y.
+*= Multiply and assign. For example, x*=y is the same as x=x*y.
+/= Divide and assign. For example, x/=y is the same as x=x/y.
+%= Modulus and assign. For example, x%=y is the same as x=x%ysss

@@ -1,0 +1,20 @@
+if statement - use this statement to execute some code only if a specified condition is true
+
+Syntax
+if (condition)
+  {
+ code to be executed if condition is true
+  }
+
+
+if...else statement - use this statement to execute some code if the condition is true and another code if the condition is false
+
+Syntax
+if (condition)
+  {
+code to be executed if a condition is true
+  }
+else
+  {
+code to be executed if a condition is not true
+}
